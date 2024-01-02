@@ -35,6 +35,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+
 home.html
 <html>
     <head>
@@ -795,6 +796,7 @@ people.html
     </footer>
 </body>
 </html>
+
 ## OUTPUT:
 
 ![product](https://github.com/Rxhith1205/productcompanywebsite/assets/147473311/2a794134-69ab-4d50-94bc-1344a5f3a45d)
