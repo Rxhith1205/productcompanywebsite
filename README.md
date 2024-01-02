@@ -35,7 +35,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
+```python
 home.html
 <html>
     <head>
@@ -796,6 +796,7 @@ people.html
     </footer>
 </body>
 </html>
+```
 
 ## OUTPUT:
 
